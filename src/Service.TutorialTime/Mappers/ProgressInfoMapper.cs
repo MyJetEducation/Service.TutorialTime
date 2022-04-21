@@ -1,5 +1,5 @@
 ﻿using Service.Core.Client.Constants;
-using Service.TutorialTime.Grpc.Models.State;
+using Service.Education.Contracts.State;
 using Service.TutorialTime.Models;
 
 namespace Service.TutorialTime.Mappers
